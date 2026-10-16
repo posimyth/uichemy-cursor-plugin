@@ -1,0 +1,13 @@
+{
+  "name": "uichemy",
+  "version": "1.1.0",
+  "description": "UiChemy AI Website Creator: build a WordPress website with AI from a brief, edit colours, fonts and copy, publish a live preview, and export to Elementor or Gutenberg. Start free.",
+  "author": { "name": "POSIMYTH INC", "email": "support@uichemy.com" },
+  "homepage": "https://uichemy.com/ai-website-creator/",
+  "repository": "https://github.com/posimyth/uichemy-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["ai website builder", "ai website creator", "create website with ai", "wordpress", "elementor", "gutenberg", "figma to wordpress", "import lovable bolt v0 to wordpress", "landing page", "uichemy"],
+  "logo": "assets/logo.png",
+  "skills": "skills",
+  "mcpServers": "mcp.json"
+}

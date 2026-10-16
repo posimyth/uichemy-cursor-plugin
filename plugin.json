@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "uichemy",
+  "version": "1.1.0",
+  "description": "UiChemy AI Website Creator: build a WordPress website with AI from a brief, edit colours, fonts and copy, publish a live preview, and export to Elementor or Gutenberg. Start free.",
+  "author": { "name": "POSIMYTH INC", "email": "support@uichemy.com", "url": "https://uichemy.com" },
+  "homepage": "https://uichemy.com/ai-website-creator/",
+  "keywords": ["ai website builder", "ai website creator", "wordpress", "elementor", "gutenberg", "uichemy"]
+}
