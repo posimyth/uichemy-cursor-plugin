@@ -17,7 +17,7 @@ In Cursor, run `/add-plugin uichemy`. The plugin connects to the UiChemy MCP ser
 
 ## Pricing
 
-You can start free: the Free plan builds one site. See https://uichemy.com/pricing/.
+You can start free: the Free plan builds one site. Paid plans start at $8/month, billed yearly. See https://uichemy.com/pricing/.
 
 ## Safety
 
