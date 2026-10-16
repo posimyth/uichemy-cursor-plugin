@@ -13,7 +13,7 @@ Build a WordPress-ready website with AI from a brief, right from Cursor or Grok 
 
 ## Install
 
-In Cursor, run `/add-plugin uichemy`. The plugin connects to the UiChemy MCP server at `https://app.uichemy.com/api/mcp` and asks you to sign in to your own UiChemy account.
+In Cursor, run `/add-plugin uichemy`. The plugin connects to the UiChemy MCP server at `https://app.uichemy.com/api/mcp/cursor` and asks you to sign in to your own UiChemy account.
 
 ## Pricing
 
