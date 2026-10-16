@@ -3,7 +3,7 @@
   "mcpServers": {
     "uichemy": {
       "type": "streamable-http",
-      "url": "https://app.uichemy.com/api/mcp"
+      "url": "https://app.uichemy.com/api/mcp/cursor"
     }
   }
 }
